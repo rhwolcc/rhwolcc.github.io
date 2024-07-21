@@ -19,7 +19,7 @@
 
 	.about-us-box { margin-top: 80px; }
 	.about-us-box:last-child { margin-top: 50px; }
-	.about-us-box-text { padding-right: 0; text-align: center; }
+	.about-us-box-text { padding-right: 0; text-align: left; }
 	
 	.more-services-box .more-services-box-icon { width: 50px; height: 50px; font-size: 26px; line-height: 50px; border-radius: 18px; }
 	
@@ -48,7 +48,7 @@
 	
 	.about-us-box { margin-top: 80px; }
 	.about-us-box:last-child { margin-top: 50px; }
-	.about-us-box-text { padding-right: 0; text-align: center; }
+	.about-us-box-text { padding-right: 0; text-align: left; }
 	
 	.more-services-box { text-align: center; }
 	.more-services-box h3 { margin-top: 20px; padding-top: 10px; }
